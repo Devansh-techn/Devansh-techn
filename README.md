@@ -1,117 +1,27 @@
+<h1 align="center">Hi 👋, I'm Devansh Singh Rajput</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-techn&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-techn" /> </p>
 
-# DEVANSH SINGH RAJPUT
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devansh-techn" alt="devansh-techn" /></a> </p>
 
-### AI & ML Student | Software Developer | Finance Enthusiast
+- 🔭 I’m currently working on [Wealthfolio](https://github.com/Devansh-techn/wealthfolio)
 
-<p>
-  <a href="https://devansh-techn.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-78958A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/devansh-singh-223b66301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:devansh0257@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-BB8063?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+- 📫 How to reach me **devansh0257@gmail.com**
+
+- 📄 Know about my experiences [https://devansh-techn.github.io/](https://devansh-techn.github.io/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devansh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh singh" height="30" width="40" /></a>
+<a href="https://instagram.com/thatguydevansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatguydevansh" height="30" width="40" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Devansh-techn&label=PROFILE%20VIEWS&color=78958A&style=flat-square" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-techn&show_icons=true&locale=en&layout=compact" alt="devansh-techn" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-techn&show_icons=true&locale=en" alt="devansh-techn" /></p>
 
-## 👨‍💻 About Me
-
-I'm an AI & ML undergraduate at **Thakur College of Engineering & Technology, Mumbai**.
-
-- Interested in Artificial Intelligence, Machine Learning and Financial Technology.
-- Working with Python, Java, JavaScript and SQL.
-- Experience in web development and financial research.
-- Passionate about building technology-driven solutions and exploring financial markets.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,vite,spring,fastapi,git,github,vscode" />
-
-**Data & Platforms**
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase,aws,opencv" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Devansh-techn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devansh-techn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/Devansh-techn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-techn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</a>
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Devansh-techn&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-techn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## ⭐ Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Devansh-techn/wealthfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh-techn&repo=wealthfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Devansh-techn/forage-jpmc-swe-task-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Devansh-techn&repo=forage-jpmc-swe-task-1&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Devansh-techn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/devansh-singh-223b66301/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/thatguydevansh/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:devansh0257@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Thanks for visiting my profile!**
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-techn&" alt="devansh-techn" /></p>
