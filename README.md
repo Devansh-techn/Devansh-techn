@@ -141,36 +141,32 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%" align="center">
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=devansh-techn&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<div align="center">
 
-</td>
-<td width="50%" align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devansh-techn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-techn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-### 🔥 Contribution Streak
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-techn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 📈 Contribution Activity Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-techn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-techn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
----
+## 🔥 Contribution Streak
 
 <div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=Devansh-techn&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-techn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
 
 ### 🤝 Thanks for visiting my profile!
 
