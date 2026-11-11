@@ -141,19 +141,9 @@
 
 <div align="center">
 
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
 ### 🔥 Contribution Streak
 
 <img width="75%" src="https://streak-stats.demolab.com/?user=Devansh-techn&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-### 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-techn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
