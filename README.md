@@ -12,14 +12,11 @@
 ## A LITTLE ABOUT ME
 
 I'm an **AI & ML engineering student from India**, interested in the intersection of technology, finance and innovation.
-
-Currently building **[WealthFolio](https://wealthfolio.in/)** — a financial technology platform focused on smarter financial planning, portfolio insights and investment research.
-
 I enjoy exploring new technologies, building practical solutions and understanding how intelligent systems can solve real-world problems.
 
 - 🚀 Building: [WealthFolio](https://wealthfolio.in/)
-- 🧠 Exploring: Artificial Intelligence & Machine Learning
-- 💻 Interested in: Software Engineering & Product Development
+- 🧠 Exploring: Artificial Intelligence & Machine Learning and Financial Markets
+- 💻 Interested in: Software Engineering & Research Analyst
 - 📈 Fascinated by: Financial Markets & FinTech
 
 <sub><a href="https://github.com/Devansh-techn/wealthfolio">Explore the WealthFolio source code ↗</a></sub>
