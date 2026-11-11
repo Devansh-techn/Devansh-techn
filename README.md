@@ -142,31 +142,21 @@
 <div align="center">
 
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devansh-techn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-techn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
+### 🔥 Contribution Streak
 
 <img width="75%" src="https://streak-stats.demolab.com/?user=Devansh-techn&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
+### 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devansh-techn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
+
 
 ### 🤝 Thanks for visiting my profile!
 
