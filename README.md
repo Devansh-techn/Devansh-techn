@@ -1,16 +1,9 @@
+
 <div align="center">
 
 <h1>DEVANSH SINGH RAJPUT</h1>
 
 <h3>Engineering ideas into technology. Exploring AI, software & finance.</h3>
-
-<img src="https://komarev.com/ghpvc/?username=Devansh-techn&label=PROFILE%20VIEWS&color=78958A&style=flat-square" alt="Profile views" />
-
-<br/>
-
-<a href="https://wealthfolio.in/">
-  <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-WEALTHFOLIO-78958A?style=for-the-badge&logoColor=white" alt="Currently building WealthFolio" />
-</a>
 
 </div>
 
