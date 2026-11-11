@@ -1,7 +1,3 @@
-<img width="1422" height="130" alt="image" src="https://github.com/user-attachments/assets/0dc34c1d-6b76-4e58-beb0-1d4beb81b994" />
-<img width="1422" height="130" alt="image" src="https://github.com/user-attachments/assets/290d153b-573d-485f-9429-69a6dd6604d0" />
-<img width="1422" height="130" alt="image" src="https://github.com/user-attachments/assets/d3897da8-6961-4cc8-bfaa-4834249b64e4" />
-
 <div align="center">
 
 <h1>DEVANSH SINGH RAJPUT</h1>
